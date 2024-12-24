@@ -1,0 +1,11 @@
+C:\Users\Korisnik\source\repos\Wildfire\Wildfire\bin\Debug\Wildfire.exe.config
+C:\Users\Korisnik\source\repos\Wildfire\Wildfire\bin\Debug\Wildfire.exe
+C:\Users\Korisnik\source\repos\Wildfire\Wildfire\bin\Debug\Wildfire.pdb
+C:\Users\Korisnik\source\repos\Wildfire\Wildfire\obj\Debug\Wildfire.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\Wildfire\Wildfire\obj\Debug\Wildfire.Form1.resources
+C:\Users\Korisnik\source\repos\Wildfire\Wildfire\obj\Debug\Wildfire.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Wildfire\Wildfire\obj\Debug\Wildfire.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Wildfire\Wildfire\obj\Debug\Wildfire.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Wildfire\Wildfire\obj\Debug\Wildfire.exe
+C:\Users\Korisnik\source\repos\Wildfire\Wildfire\obj\Debug\Wildfire.pdb
+C:\Users\Korisnik\source\repos\Wildfire\Wildfire\obj\Debug\Wildfire.Form2.resources
