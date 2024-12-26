@@ -262,6 +262,7 @@ namespace Wildfire
             {
                 CamPosX += (mouseX - e.X) / scale;
                 CamPosY += (mouseY - e.Y) / scale;
+                LoadNecessaryChunks();
                 Refresh();
             }
             mouseX = e.X;
@@ -294,10 +295,10 @@ namespace Wildfire
         {
             if (X < 256 && Y > ClientRectangle.Height - 96)
             {
-                if (X < 64) tin = 1;
-                else if (X < 128) tin = 2;
-                else if (X < 196) tin = 3;
-                else tin = 4;
+                if (X < 64) if (tin != 1) tin = 1; else tin = 0;
+                else if (X < 128) if (tin != 2) tin = 2; else tin = 0;
+                else if (X < 196) if (tin != 3) tin = 3; else tin = 0;
+                else { if (tin != 4) tin = 4; else tin = 0; }
                 mmrn = true;
             }
             else
